@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+traffic_system.db
+*.db-journal
+.DS_Store
+sumo/*.log
+sumo/*.tripinfo.xml
